@@ -1,7 +1,4 @@
-起動するための手順
-1,git clone　https://github.com/f81/intern2022_AkiraKomiya でファイルを取り込む
-2,取り込んだファイルのディレクトリに入る
-3,yarn startで起動 エラーの場合: npm install npm,yarn add yarn後yarn start
+yarn startで起動 エラーの場合: npm install npm,yarn add yarn後yarn start
 
 自己採点(11項目/11項目)
 
